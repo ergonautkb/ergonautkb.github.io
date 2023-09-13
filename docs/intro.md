@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
+<img width="1280" alt="Screenshot 2022-09-13 at 15 21 24" src="https://github.com/ergonautkb/ergonautkb.github.io/assets/4306737/3e7c7d50-5ef2-468c-9612-2f33789e947a">
+
 ## Getting Started
 
 Get started by **creating a new site**.
