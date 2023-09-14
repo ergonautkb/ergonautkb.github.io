@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     // image: "/img/undraw-mg-community.svg",
-    link: "/guides",
+    link: "/blog",
     linkText: "Build Guides",
   },
   {
@@ -46,7 +46,7 @@ const FeatureList: FeatureItem[] = [
         instructions to enhance your Ergonaut Keyboard experience.
       </>
     ),
-    link: "/tech-specs",
+    link: "/blog",
     linkText: "Tech Specs",
   },
 ];
