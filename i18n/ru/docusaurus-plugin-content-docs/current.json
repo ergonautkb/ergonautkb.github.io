@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Следующее",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Switches": {
+    "message": "Свитчи",
+    "description": "The label for category Switches in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Switches.link.generated-index.description": {
+    "message": "Информация о переключателях",
+    "description": "The generated-index page description for category Switches in sidebar tutorialSidebar"
+  }
+}
