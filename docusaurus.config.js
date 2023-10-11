@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "ru"],
   },
 
   presets: [
@@ -78,6 +78,10 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
+            type: "localeDropdown",
+            position: "right",
+          },
+          {
             href: "https://github.com/ergonautkb",
             label: "GitHub",
             position: "right",
@@ -91,8 +95,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Switches",
+                to: "/docs/category/switches",
               },
             ],
           },
