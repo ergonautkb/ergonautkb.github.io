@@ -21,6 +21,23 @@ sidebar_position: 1
 | Pre-Travel      | 1.5±0.5mm      | 1.7±0.4mm      |
 | Operation Life  | 50 million     | 60 million     |
 
+## Совместимость с кейкапами
+
+| Profile                    | KS-27 | KS-33 |
+| -------------------------- | ----- | ----- |
+| Nuphy nSA                  | ✅ | ✅ |
+| Keychron LSA               | ✅ | ✅ |
+| XVX                        | ✅ | ✅ |
+| DSA/DSS                    | ✅ | ✅ |
+| MT3                        | ❌ | ✅ |
+| SA                         | ❌ | ✅ |
+| Cherry (ePBT, PBTFans, OG) | ❌ | ✅ |
+| OEM                        | ❓ | ✅ |
+| XDA                        | ❓ | ✅ |
+| GMK/CYL                    | ❌ | ❓ |
+
+Примечание: трудно сказать, будут ли работать ваши **GMK** кейкапы. Некоторые из них работают прекрасно, другие имеют проблемы. Мы не рекомендуем использовать **GMK/CYL** кейкапы вместе с **KS-33** свитчами. Например, **GMK Mecha R1** кейкапы работают прекрасно, но **GMK Space Cadet II** кейкапы бьются об плейт при боттом-ауте, что дает пользователю неприятные ощущения при печати.
+
 ## KS-33 (v2)
 
 ### Виды свитчей
@@ -38,21 +55,13 @@ sidebar_position: 1
 | Blue          | 65±15gf         | 70±5gf    | clicky      | black  | transparent  | blue   |
 | Blue (Milky)  | 65±15gf         | 70±5gf    | clicky      | milky  | transparent  | blue   |
 
-### Совместимость с кейкапами
+### Галерея
 
-Совместимые профили кейкапов:
-* Nuphy nSA
-* Keychron LSA
-* XVX
-* DSA/DSS
-* MT3
-* SA
-* Cherry (ePBT, PBTFans, OG)
+![brown_red_blue](img/brown_red_blue.jpg)
+*Brown, Red, Blue*
 
-Несовместимые профили кейкапов:
-* GMK/CYL
-
-Примечание: трудно сказать, будут ли работать ваши **GMK** кейкапы. Некоторые из них работают прекрасно, другие имеют проблемы. Мы не рекомендуем использовать **GMK/CYL** кейкапы вместе с **KS-33** свитчами. Например, **GMK Mecha R1** кейкапы работают прекрасно, но **GMK Space Cadet II** кейкапы бьются об плейт при боттом-ауте, что дает пользователю неприятные ощущения при печати.
+![daisy_aloe_wisteria](img/daisy_aloe_wisteria.jpg)
+*Daisy, Aloe, Wisteria*
 
 ## KS-27 (v1)
 
@@ -63,19 +72,3 @@ sidebar_position: 1
 | Red   | 50±15gf         | 70±5gf    | linear  | black  | transparent | red   |
 | Brown | 55±15gf         | 75±5gf    | tactile | black  | transparent | brown |
 | Blue  | 65±15gf         | 75±5gf    | clicky  | black  | transparent | blue  |
-
-### Совместимость с кейкапами
-
-Совместимые профили кейкапов:
-* Nuphy nSA
-* Keychron LSA
-* XVX
-* DSA/DSS
-
-Несовместимые профили кейкапов:
-* GMK/CYL
-* MT3
-* SA
-* Cherry (ePBT, PBTFans, OG)
-
-Примечание: **KS-27** имеют очень ограниченный список совместимых кейкапов. По этой причине мы рекомендуем избегать покупки **KS-27** свитчей.

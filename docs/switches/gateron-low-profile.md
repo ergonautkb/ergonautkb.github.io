@@ -21,6 +21,23 @@ These switches has some great features like:
 | Pre-Travel      | 1.5±0.5mm      | 1.7±0.4mm      |
 | Operation Life  | 50 million     | 60 million     |
 
+## Keycaps Compatibility
+
+| Profile                    | KS-27 | KS-33 |
+| -------------------------- | ----- | ----- |
+| Nuphy nSA                  | ✅ | ✅ |
+| Keychron LSA               | ✅ | ✅ |
+| XVX                        | ✅ | ✅ |
+| DSA/DSS                    | ✅ | ✅ |
+| MT3                        | ❌ | ✅ |
+| SA                         | ❌ | ✅ |
+| Cherry (ePBT, PBTFans, OG) | ❌ | ✅ |
+| OEM                        | ❓ | ✅ |
+| XDA                        | ❓ | ✅ |
+| GMK/CYL                    | ❌ | ❓ |
+
+Note: it's really hard to say if your **GMK** keycaps would work properly. Some of them are working perfectly well, some of them has clearance issues. Therefore, we do not recommend using **GMK/CYL** keycaps with **KS-33** switches. For example, **GMK Mecha R1** keycaps are working perfectly well, but **GMK Space Cadet II** keycaps are touching the plate during bottom-out, which gives unpleasant typing experience.
+
 ## KS-33 (v2)
 
 ### Switch Variations
@@ -38,21 +55,13 @@ These switches has some great features like:
 | Blue          | 65±15gf         | 70±5gf    | clicky      | black  | transparent  | blue   |
 | Blue (Milky)  | 65±15gf         | 70±5gf    | clicky      | milky  | transparent  | blue   |
 
-### Keycaps Compatibility
+### Gallery
 
-Compatible keycap profiles:
-* Nuphy nSA
-* Keychron LSA
-* XVX
-* DSA/DSS
-* MT3
-* SA
-* Cherry (ePBT, PBTFans, OG)
+![brown_red_blue](img/brown_red_blue.jpg)
+*Brown, Red, Blue*
 
-Non-compatible keycap profiles:
-* GMK/CYL
-
-Note: it's really hard to say if your **GMK** keycaps would work properly. Some of them are working perfectly well, some of them has clearance issues. Therefore, we do not recommend using **GMK/CYL** keycaps with **KS-33** switches. For example, **GMK Mecha R1** keycaps are working perfectly well, but **GMK Space Cadet II** keycaps are touching the plate during bottom-out, which gives unpleasant typing experience.
+![daisy_aloe_wisteria](img/daisy_aloe_wisteria.jpg)
+*Daisy, Aloe, Wisteria*
 
 ## KS-27 (v1)
 
@@ -63,19 +72,3 @@ Note: it's really hard to say if your **GMK** keycaps would work properly. Some 
 | Red   | 50±15gf         | 70±5gf    | linear  | black  | transparent | red   |
 | Brown | 55±15gf         | 75±5gf    | tactile | black  | transparent | brown |
 | Blue  | 65±15gf         | 75±5gf    | clicky  | black  | transparent | blue  |
-
-### Keycaps Compatibility
-
-Compatible keycap profiles:
-* Nuphy nSA
-* Keychron LSA
-* XVX
-* DSA/DSS
-
-Non-compatible keycap profiles:
-* GMK/CYL
-* MT3
-* SA
-* Cherry (ePBT, PBTFans, OG)
-
-Note: KS-27 has really limited keycap compatibility list. This is the reason we recommend you to avoid **KS-27**.
