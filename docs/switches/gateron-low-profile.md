@@ -57,10 +57,10 @@ Note: it's really hard to say if your **GMK** keycaps would work properly. Some 
 
 ### Gallery
 
-![brown_red_blue](img/brown_red_blue.jpg)
+![brown_red_blue](/img/brown_red_blue.jpg)
 *Brown, Red, Blue*
 
-![daisy_aloe_wisteria](img/daisy_aloe_wisteria.jpg)
+![daisy_aloe_wisteria](/img/daisy_aloe_wisteria.jpg)
 *Daisy, Aloe, Wisteria*
 
 ## KS-27 (v1)
