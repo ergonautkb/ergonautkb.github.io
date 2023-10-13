@@ -3,12 +3,12 @@
     "message": "Следующее",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Switches": {
+  "sidebar.docsSidebar.category.Switches": {
     "message": "Свитчи",
-    "description": "The label for category Switches in sidebar tutorialSidebar"
+    "description": "The label for category Switches in sidebar docsSidebar"
   },
-  "sidebar.tutorialSidebar.category.Switches.link.generated-index.description": {
+  "sidebar.docsSidebar.category.Switches.link.generated-index.description": {
     "message": "Информация о переключателях",
-    "description": "The generated-index page description for category Switches in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category Switches in sidebar docsSidebar"
   }
 }

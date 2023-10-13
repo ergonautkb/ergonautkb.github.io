@@ -7,9 +7,9 @@
     "message": "Ergonaut Keyboards logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Tutorial": {
+  "item.label.Docs": {
     "message": "Документация",
-    "description": "Navbar item with label Tutorial"
+    "description": "Navbar item with label Docs"
   },
   "item.label.Blog": {
     "message": "Блог",
