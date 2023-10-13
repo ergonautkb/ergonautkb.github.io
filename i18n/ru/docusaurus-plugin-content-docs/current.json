@@ -10,5 +10,13 @@
   "sidebar.docsSidebar.category.Switches.link.generated-index.description": {
     "message": "Информация о переключателях",
     "description": "The generated-index page description for category Switches in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Ergonaut One": {
+    "message": "Ergonaut One",
+    "description": "The label for category Ergonaut One in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Ergonaut One.link.generated-index.description": {
+    "message": "Documentation for Ergonaut One",
+    "description": "The generated-index page description for category Ergonaut One in sidebar docsSidebar"
   }
 }
