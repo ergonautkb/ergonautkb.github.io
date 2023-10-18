@@ -23,18 +23,19 @@ These switches has some great features like:
 
 ## Keycaps Compatibility
 
-| Profile                    | KS-27 | KS-33 |
-| -------------------------- | ----- | ----- |
-| Nuphy nSA                  | ✅ | ✅ |
-| Keychron LSA               | ✅ | ✅ |
-| XVX                        | ✅ | ✅ |
-| DSA/DSS                    | ✅ | ✅ |
-| MT3                        | ❌ | ✅ |
-| SA                         | ❌ | ✅ |
-| Cherry (ePBT, PBTFans, OG) | ❌ | ✅ |
-| OEM                        | ❓ | ✅ |
-| XDA                        | ❓ | ✅ |
-| GMK/CYL                    | ❌ | ❓ |
+| Profile                                                                               | KS-27 | KS-33 |
+|---------------------------------------------------------------------------------------|-------|-------|
+| [Nuphy nSA](https://nuphy.com/collections/keycaps?filter.p.tag=nSA+%28Low-Profile%29) | ✅     | ✅     |
+| [Keychron LSA](https://www.keychron.com/collections/keychron-low-profile-keycaps)     | ✅     | ✅     |
+| [SMOLO](https://shop.beekeeb.com/product/smolo-low-profile-keycap/)                   | ✅     | ✅     |
+| XVX                                                                                   | ✅     | ✅     |
+| DSA/DSS                                                                               | ✅     | ✅     |
+| MT3                                                                                   | ❌     | ✅     |
+| SA                                                                                    | ❌     | ✅     |
+| Cherry (ePBT, PBTFans, OG)                                                            | ❌     | ✅     |
+| OEM                                                                                   | ❓     | ✅     |
+| XDA                                                                                   | ❓     | ✅     |
+| GMK/CYL                                                                               | ❌     | ❓     |
 
 Note: it's really hard to say if your **GMK** keycaps would work properly. Some of them are working perfectly well, some of them has clearance issues. Therefore, we do not recommend using **GMK/CYL** keycaps with **KS-33** switches. For example, **GMK Mecha R1** keycaps are working perfectly well, but **GMK Space Cadet II** keycaps are touching the plate during bottom-out, which gives unpleasant typing experience.
 

@@ -23,18 +23,19 @@ sidebar_position: 1
 
 ## Совместимость с кейкапами
 
-| Profile                    | KS-27 | KS-33 |
-| -------------------------- | ----- | ----- |
-| Nuphy nSA                  | ✅ | ✅ |
-| Keychron LSA               | ✅ | ✅ |
-| XVX                        | ✅ | ✅ |
-| DSA/DSS                    | ✅ | ✅ |
-| MT3                        | ❌ | ✅ |
-| SA                         | ❌ | ✅ |
-| Cherry (ePBT, PBTFans, OG) | ❌ | ✅ |
-| OEM                        | ❓ | ✅ |
-| XDA                        | ❓ | ✅ |
-| GMK/CYL                    | ❌ | ❓ |
+| Profile                                                                               | KS-27 | KS-33 |
+|---------------------------------------------------------------------------------------|-------|-------|
+| [Nuphy nSA](https://nuphy.com/collections/keycaps?filter.p.tag=nSA+%28Low-Profile%29) | ✅     | ✅     |
+| [Keychron LSA](https://www.keychron.com/collections/keychron-low-profile-keycaps)     | ✅     | ✅     |
+| [SMOLO](https://shop.beekeeb.com/product/smolo-low-profile-keycap/)                   | ✅     | ✅     |
+| XVX                                                                                   | ✅     | ✅     |
+| DSA/DSS                                                                               | ✅     | ✅     |
+| MT3                                                                                   | ❌     | ✅     |
+| SA                                                                                    | ❌     | ✅     |
+| Cherry (ePBT, PBTFans, OG)                                                            | ❌     | ✅     |
+| OEM                                                                                   | ❓     | ✅     |
+| XDA                                                                                   | ❓     | ✅     |
+| GMK/CYL                                                                               | ❌     | ❓     |
 
 Примечание: трудно сказать, будут ли работать ваши **GMK** кейкапы. Некоторые из них работают прекрасно, другие имеют проблемы. Мы не рекомендуем использовать **GMK/CYL** кейкапы вместе с **KS-33** свитчами. Например, **GMK Mecha R1** кейкапы работают прекрасно, но **GMK Space Cadet II** кейкапы бьются об плейт при боттом-ауте, что дает пользователю неприятные ощущения при печати.
 
