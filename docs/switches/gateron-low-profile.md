@@ -73,3 +73,14 @@ Note: it's really hard to say if your **GMK** keycaps would work properly. Some 
 | Red   | 50±15gf         | 70±5gf    | linear  | black  | transparent | red   |
 | Brown | 55±15gf         | 75±5gf    | tactile | black  | transparent | brown |
 | Blue  | 65±15gf         | 75±5gf    | clicky  | black  | transparent | blue  |
+
+## Keyboards
+
+### Open-source
+
+* [Ergonaut One](https://github.com/ergonautkb/one)
+* [Corne GLP](https://github.com/beekeeb/crkbd-glp)
+* [PUR](https://github.com/1000eyed/pur)
+* [sweep36](https://github.com/sadekbaroudi/sweep36/tree/master)
+* [KLOR](https://github.com/sadekbaroudi/KLOR)
+* [Portable Slit Keyboard](https://github.com/klesh/pskeeb/tree/main)
