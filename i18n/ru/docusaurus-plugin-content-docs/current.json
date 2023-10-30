@@ -16,7 +16,15 @@
     "description": "The label for category Ergonaut One in sidebar docsSidebar"
   },
   "sidebar.docsSidebar.category.Ergonaut One.link.generated-index.description": {
-    "message": "Documentation for Ergonaut One",
+    "message": "Документация для Ergonaut One",
     "description": "The generated-index page description for category Ergonaut One in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Keyboards": {
+    "message": "Клавиатуры",
+    "description": "The label for category Keyboards in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Keyboards.link.generated-index.description": {
+    "message": "Документация для Ergonaut Keyboards",
+    "description": "The generated-index page description for category Keyboards in sidebar docsSidebar"
   }
 }
