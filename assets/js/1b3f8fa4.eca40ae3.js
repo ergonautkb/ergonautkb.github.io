@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkergonautkeyboards=self.webpackChunkergonautkeyboards||[]).push([[467],{2018:e=>{e.exports=JSON.parse('{"title":"Ergonaut One","description":"Documentation for Ergonaut One","slug":"/category/ergonaut-one","permalink":"/docs/category/ergonaut-one","navigation":{"next":{"title":"Build Guide","permalink":"/docs/ergonaut-one/build-guide"}}}')}}]);
