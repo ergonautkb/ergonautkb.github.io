@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Introduction
 
-This documentation contains useful information about keyboards designed by Ergonaut Keyboards and information about switches which are used in these keyboards.
+This documentation contains useful information about keyboards designed by Ergonaut Keyboards and information about switches that are used in these keyboards.
 
 ## Keyboards
 
