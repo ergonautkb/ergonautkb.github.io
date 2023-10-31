@@ -6,13 +6,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Ergonaut Keyboards Docs",
+  title: "Ergonaut Keyboards",
   tagline:
     "Unlock Comfort in Every Keystroke - Your Guide to Ergonaut Keyboards!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://ergonautkb.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -20,7 +20,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "ergonautkb", // Usually your GitHub org/user name.
-  projectName: "ergonautkb", // Usually your repo name.
+  projectName: "ergonautkb.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -43,14 +43,10 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/ergonautkb/ergonautkb.github.io/tree/main",
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -95,8 +91,12 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Switches",
-                to: "/docs/category/switches",
+                label: "Ergonaut One",
+                to: "/docs/keyboards/ergonaut-one/intro",
+              },
+              {
+                label: "Gateron Low Profile Switches",
+                to: "/docs/switches/gateron-low-profile",
               },
             ],
           },
@@ -104,16 +104,12 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Telegram (International)",
+                href: "https://t.me/rafworksintl",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Telegram (Ru)",
+                href: "https://t.me/rafworks",
               },
             ],
           },
@@ -126,12 +122,12 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/ergonautkb",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ergonaut Keyboards, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
