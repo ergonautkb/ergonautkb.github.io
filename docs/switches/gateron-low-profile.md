@@ -36,6 +36,7 @@ These switches have some great features like:
 | OEM                                                                                   | ❓     | ✅     |
 | XDA                                                                                   | ❓     | ✅     |
 | GMK/CYL                                                                               | ❌     | ❓     |
+| RAMA GRID                                                                             | ❌     | ❌     |
 
 Note: it's really hard to say if your GMK keycaps would work properly. Some of them are working perfectly well, but some of them have clearance issues. Therefore, we do not recommend using GMK/CYL keycaps with KS-33 switches. For example, GMK Mecha R1 keycaps are working perfectly well, but GMK Space Cadet II keycaps are touching the plate during bottom-out, which gives an unpleasant typing experience.
 
