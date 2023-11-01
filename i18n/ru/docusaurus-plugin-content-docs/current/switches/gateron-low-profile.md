@@ -24,7 +24,7 @@ sidebar_position: 1
 ## Совместимость с кейкапами
 
 | Profile                                                                               | KS-27 | KS-33 |
-|---------------------------------------------------------------------------------------|-------|-------|
+| ------------------------------------------------------------------------------------- | ----- | ----- |
 | [Nuphy nSA](https://nuphy.com/collections/keycaps?filter.p.tag=nSA+%28Low-Profile%29) | ✅     | ✅     |
 | [Keychron LSA](https://www.keychron.com/collections/keychron-low-profile-keycaps)     | ✅     | ✅     |
 | [SMOLO](https://shop.beekeeb.com/product/smolo-low-profile-keycap/)                   | ✅     | ✅     |
@@ -44,20 +44,20 @@ sidebar_position: 1
 
 ### Виды свитчей
 
-| Name                                                                                                                    | Operating Force | End Force | Type    | Bottom     | Top         | Stem       | Spring                     |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------|-----------|---------|------------|-------------|------------|----------------------------|
-| [Aloe](https://nuphy.com/collections/switches/products/nuphy-aloe-l37-low-profile-switches)                             | 37±15gf         | 40±5gf    | linear  | green      | transparent | green      | 16.5mm two-stage spring    |
-| [Cowberry](https://nuphy.com/collections/switches/products/nuphy-cowberry-l45-low-profile-switches)                     | 45±15gf         | 55±5gf    | linear  | red        | transparent | red        | 15mm single-stage spring   |
-| [Daisy](https://nuphy.com/collections/switches/products/nuphy-daisy-l48-low-profile-switches)                           | 48±15gf         | 55±5gf    | linear  | peach      | transparent | peach      | 16.5mm one-stage spring    |
-| [Red](https://www.keychron.com/products/low-profile-gateron-mechanical-switch-set?variant=40122792575065)               | 50±15gf         | 60±5gf    | linear  | black      | transparent | red        | 13.5mm two-stage spring    |
-| [Red (Milky)](https://nuphy.com/collections/switches/products/gateron-low-profile-v2-switches?variant=40519107182701)   | 50±15gf         | 60±5gf    | linear  | milky      | transparent | red        | 13.5mm two-stage spring    |
-| [Wisteria](https://nuphy.com/collections/switches/products/nuphy-wisteria-t55-low-profile-switches)                     | 50±15gf         | 55±5gf    | tactile | lilac      | transparent | lilac      | 16.5mm two-stage spring    |
-| [Brown](https://www.keychron.com/products/low-profile-gateron-mechanical-switch-set?variant=40122792673369)             | 55±15gf         | 60±5gf    | tactile | black      | transparent | brown      | 13.5mm two-stage spring    |
-| [Brown (Milky)](https://nuphy.com/collections/switches/products/gateron-low-profile-v2-switches?variant=40519107215469) | 55±15gf         | 60±5gf    | tactile | milky      | transparent | brown      | 13.5mm two-stage spring    |
-| [Moss](https://nuphy.com/collections/switches/products/nuphy-moss-t60-low-profile-switches)                             | 55±15gf         | 60±5gf    | tactile | dark green | transparent | dark green | 16.5mm single-stage spring |
-| [Banana](https://www.keychron.com/products/low-profile-gateron-mechanical-switch-set?variant=40587643355225)            | 60±15gf         | 70±5gf    | tactile | black      | transparent | yellow     | ?                          |
-| [Blue](https://www.keychron.com/products/low-profile-gateron-mechanical-switch-set?variant=40122792607833)              | 65±15gf         | 70±5gf    | clicky  | black      | transparent | blue       | 13.5mm two-stage spring    |
-| [Blue (Milky)](https://nuphy.com/collections/switches/products/gateron-low-profile-v2-switches?variant=40519107248237)  | 65±15gf         | 70±5gf    | clicky  | milky      | transparent | blue       | 13.5mm two-stage spring    |
+| Name          | Operating Force | End Force | Type    | Bottom     | Top         | Stem       | Spring                     | Links                                                                                                                                                                                                    |
+| ------------- | --------------- | --------- | ------- | ---------- | ----------- | ---------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Aloe          | 37±15gf         | 40±5gf    | linear  | green      | transparent | green      | 16.5mm two-stage spring    | [Nuphy](https://nuphy.com/collections/switches/products/nuphy-aloe-l37-low-profile-switches) [Aliexpress](https://aliexpress.com/item/1005005954551975.html?sku_id=12000035014555324)                    |
+| Cowberry      | 45±15gf         | 55±5gf    | linear  | red        | transparent | red        | 15mm single-stage spring   | [Nuphy](https://nuphy.com/collections/switches/products/nuphy-cowberry-l45-low-profile-switches)                                                                                                         |
+| Daisy         | 48±15gf         | 55±5gf    | linear  | peach      | transparent | peach      | 16.5mm one-stage spring    | [Nuphy](https://nuphy.com/collections/switches/products/nuphy-daisy-l48-low-profile-switches) [Aliexpress](https://aliexpress.com/item/1005005954551975.html?sku_id=12000035014555325)                   |
+| Red           | 50±15gf         | 60±5gf    | linear  | black      | transparent | red        | 13.5mm two-stage spring    | [Keychron](https://www.keychron.com/products/low-profile-gateron-mechanical-switch-set?variant=40122792575065) [Aliexpress](https://aliexpress.com/item/1005006115916975.html?sku_id=12000035823005486)  |
+| Red (Milky)   | 50±15gf         | 60±5gf    | linear  | milky      | transparent | red        | 13.5mm two-stage spring    | [Nuphy](https://nuphy.com/collections/switches/products/gateron-low-profile-v2-switches?variant=40519107182701) [Aliexpress](https://aliexpress.com/item/1005005467067056.html?sku_id=12000033197456369) |
+| Wisteria      | 50±15gf         | 55±5gf    | tactile | lilac      | transparent | lilac      | 16.5mm two-stage spring    | [Nuphy](https://nuphy.com/collections/switches/products/nuphy-wisteria-t55-low-profile-switches) [Aliexpress](https://aliexpress.com/item/1005005954551975.html?sku_id=12000035014555323)                |
+| Brown         | 55±15gf         | 60±5gf    | tactile | black      | transparent | brown      | 13.5mm two-stage spring    | [Keychron](https://www.keychron.com/products/low-profile-gateron-mechanical-switch-set?variant=40122792673369) [Aliexpress](https://aliexpress.com/item/1005006115916975.html?sku_id=12000035823005487)  |
+| Brown (Milky) | 55±15gf         | 60±5gf    | tactile | milky      | transparent | brown      | 13.5mm two-stage spring    | [Nuphy](https://nuphy.com/collections/switches/products/gateron-low-profile-v2-switches?variant=40519107215469) [Aliexpress](https://aliexpress.com/item/1005005467067056.html?sku_id=12000033197456366) |
+| Moss          | 55±15gf         | 60±5gf    | tactile | dark green | transparent | dark green | 16.5mm single-stage spring | [Nuphy](https://nuphy.com/collections/switches/products/nuphy-moss-t60-low-profile-switches)                                                                                                             |
+| Banana        | 60±15gf         | 70±5gf    | tactile | black      | transparent | yellow     | ?                          | [Keychron](https://www.keychron.com/products/low-profile-gateron-mechanical-switch-set?variant=40587643355225) [Aliexpress](https://aliexpress.com/item/1005006060154869.html?sku_id=12000035548809436)  |
+| Blue          | 65±15gf         | 70±5gf    | clicky  | black      | transparent | blue       | 13.5mm two-stage spring    | [Keychron](https://www.keychron.com/products/low-profile-gateron-mechanical-switch-set?variant=40122792607833) [Aliexpress](https://aliexpress.com/item/1005006115916975.html?sku_id=12000035823005488)  |
+| Blue (Milky)  | 65±15gf         | 70±5gf    | clicky  | milky      | transparent | blue       | 13.5mm two-stage spring    | [Nuphy](https://nuphy.com/collections/switches/products/gateron-low-profile-v2-switches?variant=40519107248237) [Aliexpress](https://aliexpress.com/item/1005005467067056.html?sku_id=12000033197456363) |
 
 ### Галерея
 
