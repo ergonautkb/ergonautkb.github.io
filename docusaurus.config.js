@@ -104,12 +104,12 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Telegram (International)",
-                href: "https://t.me/rafworksintl",
+                label: "Telegram",
+                href: "https://ergonautkb.t.me",
               },
               {
-                label: "Telegram (Ru)",
-                href: "https://t.me/rafworks",
+                label: "Telegram (ru)",
+                href: "https://ergonautkb_ru.t.me",
               },
             ],
           },
