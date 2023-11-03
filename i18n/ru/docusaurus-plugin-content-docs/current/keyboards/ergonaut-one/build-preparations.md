@@ -9,7 +9,7 @@ title: Подготовка к сборке
 
 ## Печатная плата
 
-![PCB](/img/pcb.jpg)
+![PCB](/img/one_pcb.jpg)
 Печатная плата это главный компонент Ergonaut One.
 
 #### Инструменты:
@@ -33,7 +33,7 @@ title: Подготовка к сборке
 #### Материалы
 
 | Name                                                    | Qty | Links                                                                                     |
-|---------------------------------------------------------|-----|-------------------------------------------------------------------------------------------|
+| ------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------- |
 | Seeeduino XIAO nRF52840 Module                          | 2   | [Aliexpress](https://aliexpress.com/item/1005004459618789.html)                           |
 | MSK-12C02 SPDT Switch                                   | 2   | [Aliexpress](https://aliexpress.com/item/4000685483225.html)                              |
 | 1N5819 SOD-123 Diode                                    | 42  | [Aliexpress](https://aliexpress.com/item/1005003194674618.html?sku_id=12000024602962923)  |
@@ -48,8 +48,8 @@ title: Подготовка к сборке
 Вы можете использовать любой из трех предоставленных вариантов корпуса:
 
 * Для производства на 3D принтере:
-  * [Tilted Case](#3d-printed-tilted-case) (Рекомендуем) (Самый легкий в печати)
-  * [Standard Case](#3d-printed-standard-case)
+  * [Modern Case](#3d-printed-modern-case) (Рекомендуем) (Самый легкий в печати)
+  * [Classic Case](#3d-printed-classic-case)
 * [FR4 Sandwich Case](#fr4-sandwich-case)
 
 ### Общая информация для корпусов, производимых на 3D принтере
@@ -57,7 +57,7 @@ title: Подготовка к сборке
 #### Необходимые инструменты:
 
 * FDM 3D принтер или друг с принтером;
-* **[ONLY FOR STANDARD CASE]** Скальпель или другой режущий инструмент для удаления встроенных поддержек;
+* **[ONLY FOR CLASSIC CASE]** Скальпель или другой режущий инструмент для удаления встроенных поддержек;
 * **[OPTIONAL]** Инструмент для снятия заусенцев.
 
 #### Материалы
@@ -65,7 +65,7 @@ title: Подготовка к сборке
 Вам понадобятся некоторые дополнительные материалы для сборки корпуса:
 
 | Name                          | Qty | Links                                                                                    |
-|-------------------------------|-----|------------------------------------------------------------------------------------------|
+| ----------------------------- | --- | ---------------------------------------------------------------------------------------- |
 | M2 8mm Flat Countersunk Screw | 8   | [Aliexpress](https://aliexpress.com/item/32975242274.html?sku_id=66696774380)            |
 | M2 Hex Nut                    | 8   | [Aliexpress](https://aliexpress.com/item/1005003994209489.html?sku_id=12000027676602569) |
 | Silicone Feet Pads 8mmx2.5mm  | 8   | [Aliexpress](https://aliexpress.com/item/32750517847.html)                               |
@@ -78,39 +78,39 @@ title: Подготовка к сборке
 * Extrusion width: 0.4mm;
 * No support structures.
 
-**Примечание: Standard Case может требовать генерацию структур поддержки, если ваш принтерн не обладает достаточным охлаждением детали.**
+**Примечание: Classic Case может требовать генерацию структур поддержки, если ваш принтерн не обладает достаточным охлаждением детали.**
 
-Выбери свой желанный вариант корпуса (Standard или Tilted) и напечатай 4 детали:
+Выбери свой желанный вариант корпуса (Modern или Classic) и напечатай 4 детали:
 * Левую Top;
 * Правую Top (модель должна быть отзеркалена по оси X в слайсере);
 * Левую Bottom;
 * Правую Bottom (модель должна быть отзеркалена по оси X в слайсере).
 
-### 3D Printed Tilted Case
-
-| Front                                              | Back                                              |
-|----------------------------------------------------|---------------------------------------------------|
-| ![3D Printed Tilted Case Front](/img/tilted_1.jpg) | ![3D Printed Tilted Case Back](/img/tilted_2.jpg) |
-
-| Bottom part placement                                    | Top part placement                                       |
-|----------------------------------------------------------|----------------------------------------------------------|
-| ![3D Printed Tilted Case Bot](/img/tilted_bot_print.jpg) | ![3D Printed Tilted Case Top](/img/tilted_top_print.jpg) |
-
-### 3D Printed Standard Case
+### 3D Printed Modern Case
 
 | Front                                                  | Back                                                  |
-|--------------------------------------------------------|-------------------------------------------------------|
-| ![3D Printed Standard Case Front](/img/standard_1.jpg) | ![3D Printed Standard Case Back](/img/standard_2.jpg) |
+| ------------------------------------------------------ | ----------------------------------------------------- |
+| ![3D Printed Modern Case Front](/img/one_modern_1.jpg) | ![3D Printed Modern Case Back](/img/one_modern_2.jpg) |
+
+| Bottom part placement                                        | Top part placement                                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![3D Printed Modern Case Bot](/img/one_modern_bot_print.jpg) | ![3D Printed Modern Case Top](/img/one_modern_top_print.jpg) |
+
+### 3D Printed Classic Case
+
+| Front                                                    | Back                                                    |
+| -------------------------------------------------------- | ------------------------------------------------------- |
+| ![3D Printed Classic Case Front](/img/one_classic_1.jpg) | ![3D Printed Classic Case Back](/img/one_classic_2.jpg) |
 
 **Примечание: эта модель содержит встроенные поддержки, улучшающие адгезию к столу. Они должны быть удалены после печати.**
 
-| Bottom part placement                                        | Top part placement                                           |
-|--------------------------------------------------------------|--------------------------------------------------------------|
-| ![3D Printed Standard Case Bot](/img/standard_bot_print.jpg) | ![3D Printed Standard Case Top](/img/standard_top_print.jpg) |
+| Bottom part placement                                          | Top part placement                                             |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
+| ![3D Printed Classic Case Bot](/img/one_classic_bot_print.jpg) | ![3D Printed Classic Case Top](/img/one_classic_top_print.jpg) |
 
 **Примечание: После печати не забудьте удалить встроенные поддержки с Top моделей. Изображение ниже для справки:**
 
-![3D Printed Standard Case Supports](/img/standard_top_supports.jpg)
+![3D Printed Classic Case Supports](/img/one_classic_top_supports.jpg)
 
 ### FR4 Sandwich Case
 

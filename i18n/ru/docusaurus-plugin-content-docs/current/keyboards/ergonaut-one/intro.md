@@ -5,7 +5,15 @@ title: Введение
 
 # Ergonaut One
 
+![Ergonaut One in Modern Case](/img/one_intro_header.jpg)
+*Ergonaut One in Modern Case*
+
 Ergonaut One это эргономичная беспроводная раздельная механическая клавиатура разработанная Ergonaut Keyboards.
+
+Вдохновение было получено из следующих проектов:
+
+* [Corne](https://github.com/foostan/crkbd) от [foostan](https://github.com/foostan)
+* [Dao](https://github.com/yumagulovrn/dao-choc-ble) от [yumagulovrn](https://github.com/yumagulovrn)
 
 ## Идея
 

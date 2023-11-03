@@ -5,7 +5,8 @@ title: Introduction
 
 # Ergonaut One
 
-![Ergonaut One Intro](/img/one_intro_header.jpg)
+![Ergonaut One in Modern Case](/img/one_intro_header.jpg)
+*Ergonaut One in Modern Case*
 
 Ergonaut One is an open-source ergonomic wireless split mechanical keyboard designed by Ergonaut Keyboards.
 
