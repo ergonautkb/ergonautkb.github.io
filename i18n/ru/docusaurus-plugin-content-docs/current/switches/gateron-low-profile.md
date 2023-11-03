@@ -88,3 +88,7 @@ sidebar_position: 1
 * [sweep36](https://github.com/sadekbaroudi/sweep36/tree/master)
 * [KLOR](https://github.com/sadekbaroudi/KLOR)
 * [Portable Slit Keyboard](https://github.com/klesh/pskeeb/tree/main)
+
+## Благодарности
+
+Спасибо [aroum](https://github.com/aroum) за идею, и за изначальную версию таблиц.

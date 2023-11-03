@@ -88,3 +88,7 @@ Note: it's really hard to say if your GMK keycaps would work properly. Some of t
 * [sweep36](https://github.com/sadekbaroudi/sweep36/tree/master)
 * [KLOR](https://github.com/sadekbaroudi/KLOR)
 * [Portable Slit Keyboard](https://github.com/klesh/pskeeb/tree/main)
+
+## Acknowledgements
+
+Thanks to [aroum](https://github.com/aroum) for the idea and for initial version of the tables.
