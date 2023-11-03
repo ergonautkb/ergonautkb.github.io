@@ -11,8 +11,8 @@ This documentation contains useful information about keyboards designed by Ergon
 
 ## Keyboards
 
-* [Ergonaut One](./keyboards/ergonaut-one/intro)
+* [Ergonaut One](/docs/keyboards/ergonaut-one/intro)
 
 ## Switches
 
-* [Gateron Low Profile](./switches/gateron-low-profile)
+* [Gateron Low Profile](/docs/switches/gateron-low-profile)

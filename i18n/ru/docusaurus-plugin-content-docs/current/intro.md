@@ -11,8 +11,8 @@ sidebar_position: 1
 
 ## Клавиатуры
 
-* [Ergonaut One](./keyboards/ergonaut-one/intro)
+* [Ergonaut One](/docs/keyboards/ergonaut-one/intro)
 
 ## Свитчи
 
-* [Gateron Low Profile](./switches/gateron-low-profile)
+* [Gateron Low Profile](/docs/switches/gateron-low-profile)

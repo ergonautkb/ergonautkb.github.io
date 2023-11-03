@@ -23,7 +23,7 @@ We wanted to create a pretty affordable, nice looking, and, most importantly, ve
 * Low-profile, which will reduce strain on your beautiful hands;
 * Split. You can put the keyboard where it'll be comfortable exactly for you;
 * Pretty long battery life. 250mAh battery gives up to a month of usage without charging;
-* Wide availability and range of [compatible keycaps](../../switches/gateron-low-profile#keycaps-compatibility);
+* Wide availability and range of [compatible keycaps](/docs/switches/gateron-low-profile#keycaps-compatibility);
 * Budget-friendly, because:
   * It uses relatively cheap and widely available [Seeed Studio XIAO nRF52840](https://wiki.seeedstudio.com/XIAO_BLE/) as MCU;
   * It uses one PCB design for both halves of the keyboard;
@@ -61,7 +61,7 @@ This is a relatively new standard. The first iteration (KS27) wasn't that great,
 * All GLP switches are pre-lubed from the factory and buttery-smooth;
 * They support a wide variety of MX-styled keycaps;
 * They use MX-styled springs, which means that you can easily swap out them and change the switch weight;
-* There is already a wide selection of [KS33 switches](../../switches/gateron-low-profile#ks-33-v2);
+* There is already a wide selection of [KS33 switches](/docs/switches/gateron-low-profile#ks-33-v2);
 * They are only slightly taller than Chocs.
 
 It's the best of two worlds! They are still low-profile but have a lot of advantages of MX-styled switches.
