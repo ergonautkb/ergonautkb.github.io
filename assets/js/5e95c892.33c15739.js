@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkergonautkeyboards=self.webpackChunkergonautkeyboards||[]).push([[9661],{1892:(e,r,s)=>{s.r(r),s.d(r,{default:()=>d});s(7294);var a=s(6010),u=s(1944),n=s(5281),t=s(8790),c=s(7961),o=s(5893);function d(e){return(0,o.jsx)(u.FG,{className:(0,a.Z)(n.k.wrapper.docsPages),children:(0,o.jsx)(c.Z,{children:(0,t.H)(e.route.routes)})})}}}]);
