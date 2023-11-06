@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkergonautkeyboards=self.webpackChunkergonautkeyboards||[]).push([[809],{5264:e=>{e.exports=JSON.parse('{"label":"Ergonaut One","permalink":"/ru/blog/tags/ergonaut-one","allTagsPath":"/ru/blog/tags","count":1,"unlisted":false}')}}]);
