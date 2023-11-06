@@ -48,18 +48,13 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-      }),
-    ],
-    [
-      "@docusaurus/preset-classic",
-      {
         sitemap: {
           changefreq: "weekly",
           priority: 0.5,
           ignorePatterns: ["/tags/**"],
           filename: "sitemap.xml",
         },
-      },
+      }),
     ],
   ],
 
