@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkergonautkeyboards=self.webpackChunkergonautkeyboards||[]).push([[7846],{2191:a=>{a.exports=JSON.parse('{"label":"\u0430\u043d\u043e\u043d\u0441","permalink":"/ru/blog/tags/\u0430\u043d\u043e\u043d\u0441","allTagsPath":"/ru/blog/tags","count":1,"unlisted":false}')}}]);
