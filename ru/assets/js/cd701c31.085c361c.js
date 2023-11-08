@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkergonautkeyboards=self.webpackChunkergonautkeyboards||[]).push([[1766],{2533:e=>{e.exports=JSON.parse('{"label":"Personlization","permalink":"/ru/blog/tags/personlization","allTagsPath":"/ru/blog/tags","count":1,"unlisted":true}')}}]);
