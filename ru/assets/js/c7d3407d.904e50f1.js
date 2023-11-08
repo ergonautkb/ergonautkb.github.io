@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkergonautkeyboards=self.webpackChunkergonautkeyboards||[]).push([[3141],{4690:e=>{e.exports=JSON.parse('{"permalink":"/ru/blog/tags/\u043c\u043e\u0434\u0434\u0438\u043d\u0433","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

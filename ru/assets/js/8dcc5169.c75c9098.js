@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkergonautkeyboards=self.webpackChunkergonautkeyboards||[]).push([[7101],{5821:e=>{e.exports=JSON.parse('{"permalink":"/ru/blog/tags/customization","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

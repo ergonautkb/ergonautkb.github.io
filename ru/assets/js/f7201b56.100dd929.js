@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkergonautkeyboards=self.webpackChunkergonautkeyboards||[]).push([[7447],{2092:e=>{e.exports=JSON.parse('{"label":"DIY","permalink":"/ru/blog/tags/diy","allTagsPath":"/ru/blog/tags","count":1,"unlisted":true}')}}]);
