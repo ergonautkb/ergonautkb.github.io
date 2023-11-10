@@ -87,7 +87,7 @@ sidebar_position: 1
 * [PUR](https://github.com/1000eyed/pur)
 * [sweep36](https://github.com/sadekbaroudi/sweep36/tree/master)
 * [KLOR](https://github.com/sadekbaroudi/KLOR)
-* [Portable Slit Keyboard](https://github.com/klesh/pskeeb/tree/main)
+* [Portable Split Keyboard](https://github.com/klesh/pskeeb/tree/main)
 
 ## Благодарности
 
