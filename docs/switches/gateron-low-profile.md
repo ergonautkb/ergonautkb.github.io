@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Gateron Low Profile
+# Gateron Low Profile Switch Guide
 
 Currently, there are two major versions of the Gateron Low Profile switches - KS-27 and KS-33.
 
