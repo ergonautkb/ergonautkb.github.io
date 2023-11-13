@@ -85,6 +85,8 @@ Grab models [here](https://github.com/ergonautkb/one/tree/main/cases/3d). Print 
 
 **Note: Classic Case might require support structures if your printer either has no part cooling or bad part cooling.**
 
+**Note: Please let the part cool off properly before removing it from build plate to reduce the risk of part warping**
+
 Choose your desired case variant (Classic or Modern) and print four parts:
 * Left Top;
 * Right Top (model should be mirrored by X axis in slicer);
