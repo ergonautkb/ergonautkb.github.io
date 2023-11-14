@@ -26,7 +26,7 @@ You'd probably need:
 #### PCB Manufacturing
 
 If you are brave enough, you can manufacture PCB yourself.
-But my suggestion would be to grab a Gerber archive [here](https://github.com/ergonautkb/one/tree/main/gerbers/pcb) and order PCBs from any capable PCB manufacturer, like:
+But my suggestion would be to grab a Gerber archive from [Github Releases](https://github.com/ergonautkb/one/releases/latest) and order PCBs from any capable PCB manufacturer, like:
 * [JLCPCB](https://jlcpcb.com/);
 * [PCBWay](https://www.pcbway.com/).
 
