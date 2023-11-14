@@ -116,13 +116,14 @@ That is also the likely cause for the right half not connecting on battery and o
 
 After that, you can optionally verify the matrix.
 Connect both halves to your PC and either use tweezers to short each socket or insert and press switches.
+Please brace the sockets (with your fingers) when inserting the switches!
 
 TODO: photo with tweezers
 
 Keep in mind that some positions in the matrix are modifiers and will not do anything when pressed on their own.
 A [keyboard tester website](https://www.keyboardtester.com) will work for modifiers, but it will not detect layers.
 
-This step can be performed after assembling the top case, but before mounting the bottom.
+Matrix verification can be performed after inserting all the switches into the top case, but it is best done before mounting the bottom.
 
 ## Assemble your case
 
