@@ -64,6 +64,21 @@ Power switches are always on the opposite side of Xiao.
 
 ![](/img/one_build_guide/pcb/5.jpg)
 
+### Verification 1
+
+If you have a multimeter, test for shorts:
+
+1. Between "-" and "+";
+2. Between GND and 5V on the Xiao;
+3. Between GND and 3V3 on the Xiao.
+
+TODO: photos of relevant verification points
+
+Then connect the battery, turn on the power switch and verify the voltage between GND and 3V3 is 3.3 volts.
+If the voltage is not there, you probably need to re-solder the underside pads.
+
+If you do not have a multimeter, just proceed with the instructions.
+
 #### Batteries
 
 You can choose any side for battery wires soldering, but I suggest using the same side as Xiao.
@@ -92,6 +107,23 @@ Now it's a good time to flash firmware to a keyboard.
 
 ![](/img/one_build_guide/pcb/7.jpg)
 
+### Verification 2
+
+If you do not have a multimeter, connect the battery on the left half and turn it on.
+Verify it shows up as a Bluetooth keyboard.
+If it does not and only shows up when connected to USB power, you probably need to re-solder the underside pads.
+That is also the likely cause for the right half not connecting on battery and only working when connected to USB power.
+
+After that, you can optionally verify the matrix.
+Connect both halves to your PC and either use tweezers to short each socket or insert and press switches.
+
+TODO: photo with tweezers
+
+Keep in mind that some positions in the matrix are modifiers and will not do anything when pressed on their own.
+A [keyboard tester website](https://www.keyboardtester.com) will work for modifiers, but it will not detect layers.
+
+This step can be performed after assembling the top case, but before mounting the bottom.
+
 ## Assemble your case
 
 Start by inserting the PCB inside the top part of the case.
@@ -108,7 +140,7 @@ Flip the keyboard again, and insert the bottom part of the case.
 
 Now the tricky part - you should place hex nuts in the hex slots on the bottom side of the case, and insert screws from the top side of the case.
 
-**Note: please do not overtight the screws!**
+**Note: please do not overtighten the screws!**
 
 | Top                                  | Bottom                               |
 | ------------------------------------ | ------------------------------------ |
