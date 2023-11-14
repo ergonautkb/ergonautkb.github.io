@@ -64,7 +64,7 @@ Power switches are always on the opposite side of Xiao.
 
 ![](/img/one_build_guide/pcb/5.jpg)
 
-### Verification 1
+#### Test your soldering
 
 If you have a multimeter, test for shorts:
 
@@ -72,7 +72,7 @@ If you have a multimeter, test for shorts:
 2. Between GND and 5V on the Xiao;
 3. Between GND and 3V3 on the Xiao.
 
-TODO: photos of relevant verification points
+![](/img/one_build_guide/pcb/pins.jpg)
 
 Then connect the battery, turn on the power switch and verify the voltage between GND and 3V3 is 3.3 volts.
 If the voltage is not there, you probably need to re-solder the underside pads.
@@ -107,7 +107,7 @@ Now it's a good time to flash firmware to a keyboard.
 
 ![](/img/one_build_guide/pcb/7.jpg)
 
-### Verification 2
+### Test the PCB
 
 If you do not have a multimeter, connect the battery on the left half and turn it on.
 Verify it shows up as a Bluetooth keyboard.
@@ -118,7 +118,7 @@ After that, you can optionally verify the matrix.
 Connect both halves to your PC and either use tweezers to short each socket or insert and press switches.
 Please brace the sockets (with your fingers) when inserting the switches!
 
-TODO: photo with tweezers
+![](/img/one_build_guide/pcb/tweezers.jpg)
 
 Keep in mind that some positions in the matrix are modifiers and will not do anything when pressed on their own.
 A [keyboard tester website](https://www.keyboardtester.com) will work for modifiers, but it will not detect layers.
