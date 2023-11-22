@@ -35,6 +35,7 @@ These switches have some great features like:
 | Cherry (ePBT, PBTFans, OG)                                                            | ❌     | ✅     |
 | OEM                                                                                   | ❓     | ✅     |
 | XDA                                                                                   | ❓     | ✅     |
+| MDA                                                                                   | ❓     | ✅     |
 | GMK/CYL                                                                               | ❌     | ❓     |
 | RAMA GRID                                                                             | ❌     | ❌     |
 
