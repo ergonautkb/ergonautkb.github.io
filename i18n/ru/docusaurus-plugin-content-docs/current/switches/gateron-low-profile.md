@@ -84,6 +84,7 @@ sidebar_position: 1
 
 * [Ergonaut One](https://github.com/ergonautkb/one)
 * [Corne GLP](https://github.com/beekeeb/crkbd-glp)
+* [Allium58](https://github.com/beekeeb/allium58)
 * [stront](https://github.com/zzeneg/stront)
 * [PUR](https://github.com/1000eyed/pur)
 * [sweep36](https://github.com/sadekbaroudi/sweep36/tree/master)
