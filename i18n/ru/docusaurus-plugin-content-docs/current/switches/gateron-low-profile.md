@@ -36,6 +36,7 @@ sidebar_position: 1
 | OEM                                                                                   | ❓     | ✅     |
 | XDA                                                                                   | ❓     | ✅     |
 | MDA                                                                                   | ❓     | ✅     |
+| MA                                                                                    | ❓     | ✅     |
 | GMK/CYL                                                                               | ❌     | ❓     |
 | RAMA GRID                                                                             | ❌     | ❌     |
 

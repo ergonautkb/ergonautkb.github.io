@@ -36,6 +36,7 @@ These switches have some great features like:
 | OEM                                                                                   | ❓     | ✅     |
 | XDA                                                                                   | ❓     | ✅     |
 | MDA                                                                                   | ❓     | ✅     |
+| MA                                                                                    | ❓     | ✅     |
 | GMK/CYL                                                                               | ❌     | ❓     |
 | RAMA GRID                                                                             | ❌     | ❌     |
 
