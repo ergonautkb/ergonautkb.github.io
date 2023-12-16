@@ -25,6 +25,10 @@ You can assemble PCB in two different configurations - either with Xiao on "top"
 
 #### Xiao
 
+Before soldering the Xiao, please, apply a **small** amount of solder on the battery pins on the bottom of Xiao. If you applied too much - you can collect the solder to the iron tip with some flux. Xiao shouldn't be skewed on the board!
+
+![](/img/one_build_guide/pcb/bat_pins.jpg)
+
 1. Position Xiao in its designated place
 2. Start by soldering two opposite pins
 3. Solder the rest of the pins
