@@ -5,7 +5,6 @@ title: Build Guide
 
 # Ergonaut One Build Guide
 
-
 ## Assemble your PCB
 
 | PCB                                 |
@@ -18,8 +17,8 @@ You can assemble PCB in two different configurations - either with Xiao on "top"
 
 | Xiao position | Modern Case | Classic Case | FR4 Case |
 | ------------- | ----------- | ------------ | -------- |
-| Bottom        | ✅           | ❌            | ❌        |
-| Top           | ❌           | ✅            | ✅        |
+| Bottom        | ✅          | ❌           | ❌       |
+| Top           | ❌          | ✅           | ✅       |
 
 ### Soldering
 
