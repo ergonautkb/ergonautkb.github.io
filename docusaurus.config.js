@@ -128,6 +128,10 @@ const config = {
                 label: "GitHub",
                 href: "https://github.com/ergonautkb",
               },
+              {
+                label: "Contact Us",
+                href: "mailto:hi@ergonautkb.com",
+              },
             ],
           },
         ],

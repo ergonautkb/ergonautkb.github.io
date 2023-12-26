@@ -19,6 +19,10 @@
     "message": "GitHub",
     "description": "The label of footer link with label=GitHub linking to https://github.com/ergonautkb"
   },
+  "link.item.label.Contact Us": {
+    "message": "Написать нам",
+    "description": "The label of footer link with label=Contact Us linking to mailto:hi@ergonautkb.com"
+  },
   "copyright": {
     "message": "Copyright © 2023 Ergonaut Keyboards. Built with Docusaurus.",
     "description": "The footer copyright"
