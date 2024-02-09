@@ -88,6 +88,7 @@ Note: it's really hard to say if your GMK keycaps would work properly. Some of t
 * [Ergonaut One](https://github.com/ergonautkb/one)
 * [Corne GLP](https://github.com/beekeeb/crkbd-glp)
 * [Allium58](https://github.com/beekeeb/allium58)
+* [IK Keyboard](https://github.com/ianmaclarty/ik)
 * [stront](https://github.com/zzeneg/stront)
 * [PUR](https://github.com/1000eyed/pur)
 * [sweep36](https://github.com/sadekbaroudi/sweep36/tree/master)
