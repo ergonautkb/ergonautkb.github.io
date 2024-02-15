@@ -94,6 +94,8 @@ Note: it's really hard to say if your GMK keycaps would work properly. Some of t
 * [sweep36](https://github.com/sadekbaroudi/sweep36/tree/master)
 * [KLOR](https://github.com/sadekbaroudi/KLOR)
 * [Portable Split Keyboard](https://github.com/klesh/pskeeb/tree/main)
+* [Pi5 Keyboard](https://github.com/luke-schutt/Pi5Keyboard)
+* [zilpzalp](https://github.com/kilipan/zilpzalp)
 
 ## Acknowledgements
 
