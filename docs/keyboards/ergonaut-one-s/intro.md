@@ -3,17 +3,17 @@ sidebar_position: 1
 title: Introduction
 ---
 
-# Ergonaut One
+# Ergonaut One S
 
-![Ergonaut One in Modern Case](/img/one_intro_header.jpg)
-*Ergonaut One in Modern Case*
+![Ergonaut One in Modern Case](/img/one_s/intro_header.jpg)
+*Ergonaut One S in Modern Case*
 
-Ergonaut One is an open-source ergonomic wireless split mechanical keyboard designed by Ergonaut Keyboards.
+Ergonaut One S is an open-source ergonomic wireless split mechanical keyboard designed by Ergonaut Keyboards.
 
 Inspiration for the keyboard was taken from these projects:
 
-* [Corne](https://github.com/foostan/crkbd) by [foostan](https://github.com/foostan)
-* [Dao](https://github.com/yumagulovrn/dao-choc-ble) by [yumagulovrn](https://github.com/yumagulovrn)
+- [Ergonaut One](https://ergonautkb.com/docs/keyboards/ergonaut-one/intro/) by [Ergonaut Keyboards](https://ergonautkb.com/)
+- [Chocofi](https://github.com/pashutk/chocofi/) by [pashutk](https://github.com/pashutk/)
 
 ## Idea
 

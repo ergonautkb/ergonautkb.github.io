@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Build Guide
 ---
 
-# Ergonaut One Build Guide
+# Ergonaut One S Build Guide
 
 ## Assemble your PCB
 
