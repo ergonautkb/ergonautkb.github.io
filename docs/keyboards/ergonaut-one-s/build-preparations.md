@@ -51,7 +51,7 @@ The case is also an essential part of Ergonaut One S since it provides proper el
 You can choose to use one of three provided variants of the case:
 
 * 3D Printed:
-  * [Modern Case](#3d-printed-modern-case) (Recommended) (The easiest to print)
+  * [Modern Case](#3d-printed-modern-case) (Recommended, the easiest to print)
   * [Classic Case](#3d-printed-classic-case)
 
 ### Common information for 3D printed cases
