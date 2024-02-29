@@ -12,6 +12,7 @@ This documentation contains useful information about keyboards designed by Ergon
 ## Keyboards
 
 * [Ergonaut One](/docs/keyboards/ergonaut-one/intro)
+<!-- * [Ergonaut One S](/docs/keyboards/ergonaut-one-s/intro) -->
 
 ## Switches
 
