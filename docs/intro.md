@@ -16,3 +16,7 @@ This documentation contains useful information about keyboards designed by Ergon
 ## Switches
 
 * [Gateron Low Profile](/docs/switches/gateron-low-profile)
+
+## Guides
+
+* [Small layouts](/docs/guides/small-layouts)
