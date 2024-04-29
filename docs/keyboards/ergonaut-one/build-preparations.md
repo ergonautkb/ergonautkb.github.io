@@ -37,7 +37,7 @@ You'd need two PCBs for one kit.
 
 | Name                                                    | Qty | Links                                                                                     |
 | ------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------- |
-| Seeeduino XIAO nRF52840 Module                          | 2   | [Aliexpress](https://aliexpress.com/item/1005004459618789.html)                           |
+| Seeeduino XIAO nRF52840 Module                          | 2   | [Aliexpress](https://aliexpress.com/item/1005003993016972.html?sku_id=12000027671068247)  |
 | MSK-12C02 SPDT Switch                                   | 2   | [Aliexpress](https://aliexpress.com/item/4000685483225.html)                              |
 | 1N5819 SOD-123 Diode                                    | 42  | [Aliexpress](https://aliexpress.com/item/1005003194674618.html?sku_id=12000024602962922)  |
 | Gateron KS-27 Hot Swap Socket                           | 42  | [Aliexpress](https://aliexpress.com/item/1005004128409069.html)                           |
